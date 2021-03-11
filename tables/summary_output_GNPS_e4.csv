@@ -1,0 +1,10 @@
+Features,Adduct,IonMode,InChIKey,superclass,class,subclass,MolecularFormula,ExactMass,InChI,CanonicalSmiles,PubChem_CID,KEGG,BioCyc,LIPIDMAPS,ChEBI,HMDB
+FT1618,M-H,negative,AKPJXLBXDLSOFY-YCUUMJCDSA-N,Lipids and lipid-like molecules,Prenol lipids,Triterpenoids,,,,,6708528,,,,,
+FT1091,M+FA-H,negative,FQWLMRXWKZGLFI-PAKBJIOWSA-N,,,,,,,,5315234,,,,CHEBI:76143,
+FT1636,M-H,negative,AKPJXLBXDLSOFY-YCUUMJCDSA-N,Lipids and lipid-like molecules,Prenol lipids,Triterpenoids,,,,,6708528,,,,,
+FT0876,[M-H]-,negative,VSUOKLTVXQRUSG-ZFORQUDYSA-N,Phenylpropanoids and polyketides,Flavonoids,Flavonoid glycosides,,,,,5280601,C03515,,,,
+FT0482,M-H,Negative,RAGZUCNPTLULOL-UHFFFAOYSA-N,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,,,,,73210496,,,,,
+FT0942,M+FA-H,negative,RLYPFWBODVDUHT-UHFFFAOYSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,,,,,44715535,,,,,
+FT1635,M-H,negative,AKPJXLBXDLSOFY-YCUUMJCDSA-N,Lipids and lipid-like molecules,Prenol lipids,Triterpenoids,,,,,6708528,,,,,
+FT1200,M-H,Negative,KRZBCHWVBQOTNZ-PSEXTPKNSA-N,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,,,,,,,,,CHEBI:65751,"HMDB0029280,HMDB0030706"
+FT0099,[M-H]-,negative,IGWDEVSBEKYORK-UHFFFAOYSA-N,Phenylpropanoids and polyketides,Coumarins and derivatives,Furanocoumarins,,,,,68081,C16976,,,CHEBI:66071,
