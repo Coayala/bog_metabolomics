@@ -1,7 +1,5 @@
 # Personal files and directories
 data/
-images/
-tables/
 *.Rproj
 *.html
 
